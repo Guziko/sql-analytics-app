@@ -16,8 +16,7 @@ print("Hello world!")
 
 > "This is a great app" - Konfucjusz
 
-**
 1. Sciagnij
 2. Zainstaluj
 3. Ciesz się
-**
+
